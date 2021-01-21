@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+}
+.row {
+  height: 92%;
+}
+
+.main {
+  height: 100%;
+  padding-left: 0;
+}
+
+.navbar{
+  height: 8%;
+}
+
+.side {
+  background: rgb(247, 247, 247);
+  height: 100%;
+  padding-top: 2%;
+  border: 1px solid rgb(138, 138, 138);
+  padding-right: 0px;
+}
+
+.tab-content {
+  height: 100%;
+}
+
+.tab-pane {
+  height: 100%
+}
+
+.CodeMirror {
+  font-family: Monaco, 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, monospace;
+  font-size: 11pt;
+  height: 80%;
+  padding: 0px 0px;
+}
+
+.output {
+  height: 20%;
+  background: rgb(34, 34, 34);
+}
