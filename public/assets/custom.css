@@ -33,11 +33,19 @@ html, body {
 .CodeMirror {
   font-family: Monaco, 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, monospace;
   font-size: 11pt;
-  height: 80%;
+  height: 75%;
   padding: 0px 0px;
+}
+
+.control {
+  border-top: 1px solid rgb(138, 138, 138);
+  padding-top: 0.5%;
+  padding-right: 3px;
+  height: 5.5%;
 }
 
 .output {
   height: 20%;
   background: rgb(34, 34, 34);
 }
+
